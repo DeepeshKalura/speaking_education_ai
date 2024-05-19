@@ -43,10 +43,10 @@ export const Homepage = () => {
           Beta Now Live!
         </span>
         <h1 className="max-w-8xl bg-gradient-to-br from-white to-gray-400 bg-clip-text text-center text-2xl font-medium leading-tight text-transparent sm:text-5xl sm:leading-tight md:text-7xl md:leading-tight">
-          Orator: Crafting Speakers, Shaping Leaders.
+          OrateCraft: Crafting Speakers, Shaping Leaders.
         </h1>
         <p className="my-6 max-w-xl text-center text-base leading-relaxed md:text-lg md:leading-relaxed">
-          Orator is a public speaking platform that helps you improve your
+          OrateCraft is a public speaking platform that helps you improve your
           speaking skills with AI generated feedback.
         </p>
         <motion.button
